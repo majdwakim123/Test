@@ -2,7 +2,6 @@ public class Testing {
 
     private  String name;
     private int id;
-    private boolean checkedOut;
 
     public Testing(String name, int id) {
         this.name = name;
